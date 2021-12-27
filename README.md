@@ -1,2 +1,2 @@
-# rsschool-cv
-https://TereshkoBM.github.io/rsschool-cv/cv
+# rsschool-cv change
+https://TereshkoBM.github.io/rsschool-cv/
