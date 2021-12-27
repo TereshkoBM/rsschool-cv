@@ -1,0 +1,12 @@
+.block {
+    padding: 10px 20px;
+    margin: 30px;
+    border: 5px solid #040;
+}
+.text-block {
+    background-color: #0000FF;
+    display: block;
+    width: 165px;
+    height: 21px;
+    overflow: hidden;
+}
