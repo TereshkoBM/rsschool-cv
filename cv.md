@@ -12,3 +12,10 @@ const func = (num) => {
 };
 ```
 _Можно использовать **русский** шрифт_
+* Apples
+* Oranges
+* Pears
+
+1. First
+2. Second
+3. Third
