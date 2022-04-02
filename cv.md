@@ -34,3 +34,7 @@ function factorial_recursive(n) {
   }
 ```
 ***
+## WORK EXPERIENCE 
+**28 years software engineer **
+[games](https://tereshkobm.github.io/games/ "JS/FE Pre-School games Gomoku")
+***
