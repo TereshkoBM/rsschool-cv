@@ -24,7 +24,7 @@ Since the beginning of the 90s, my educational and working activities have been 
 * MySQL
 * HTML & CSS, JavaScript
 ***
-## CODE
+## CODE example
 ```
 function factorial_recursive(n) {
     if (n ❮ 0) return null;
@@ -43,3 +43,7 @@ function factorial_recursive(n) {
 + BSU (Mechanics and Mathematics faculty)
 + MSOU (Economics Faculty)
 ***
+## LANGUAGES
+- **Russian** - Native
+- **English** - A2
+- **German** - A1
